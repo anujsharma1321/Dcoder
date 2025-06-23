@@ -26,7 +26,7 @@ git push -u origin main
   * [Bootstrap](http://www.getbootstrap.com) : layout and styles
   * [Font Awesome](http://fontawesome.com) : icons
   * [Moneco Editor](https://www.npmjs.com/package/@monaco-editor/react) : code editor
-  * [Kontests](https://www.kontests.net/) : api for upcomming contests data
+  * [Clist](https://www.clist.by.com) : api for upcomming contests data
  
 * Profile images store in [Cloudinary](https://cloudinary.com/)
 ## Functionality
@@ -42,7 +42,7 @@ git push -u origin main
 - Install [Node.js](https://nodejs.org/en/), [ReactJs](https://reactjs.org/docs/getting-started.html), [MongoDB](https://www.mongodb.com/)
 ```python
 # will download this repository locally
-git clone https://github.com/nikhilbpatel2002/Dcoder.git
+git clone https://github.com/anujsharma1321/Dcoder.git
 (or manually download this project)
 # will install all the dependencies for project
 #go to ./server
